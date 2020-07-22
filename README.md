@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tfalbo/tfalbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello! 
+
+I am a Software Engineer based in São Paulo, Brazil. I currently work as a Site Reliability Engineer at Quinto Andar. Before that, I have worked at Globo.com, Udacity and RDStation. 
+
+I like getting involved with tech events and communities, especially when they are focused on including women in technology. Currently, I lead the DevOps Girls Brazil chapter.
+
+In addition to programming languages, I've always been interested in natural languages. For that reason, I decided to study Linguistics as a personal interest, in which I will be graduating in 2020.
