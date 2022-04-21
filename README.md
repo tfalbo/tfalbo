@@ -1,5 +1,12 @@
 # 🙋🏻‍♀️ Hello!
-I'm Thaíssa, Site Realiability Engineer from 🇧🇷Rio de Janeiro, Brazil.
+I'm Thaíssa, a Site Reliability Engineer from Rio de Janeiro, Brazil🇧🇷.
+
+- 🔭  I'm currently working at Tucows
+- 🌱  I'm currently learning French, Project Management and Kafka
+- 🙅🏻‍♀️  I'm not looking to make a job change at the moment
+- 📫  How to reach me: email me on `me at thaissa dot me`
+- 😄  Pronouns: she/her
+- ⚡   Fun fact: I have two cats 🐈‍⬛🐖 and love playing Animal Crossing🎮
 
 ### 💻 Technologies
 
@@ -16,3 +23,15 @@ I'm Thaíssa, Site Realiability Engineer from 🇧🇷Rio de Janeiro, Brazil.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+
+
+
+
+### 🚪 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/tfalbo/count.svg) 
+
+
+
+
+
