@@ -1,5 +1,5 @@
 # 🙋🏻‍♀️ Hello!
-I'm Thaíssa, a Site Reliability Engineer from Rio de Janeiro, Brazil🇧🇷.
+I'm Thaíssa, a Site Reliability Engineer from Brazil🇧🇷.
 
 - 🔭  I'm currently working at Tucows
 - 🌱  I'm currently learning French, Project Management and Kafka
