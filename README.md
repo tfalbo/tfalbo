@@ -4,6 +4,7 @@ I'm Thaíssa, a Site Reliability Engineer from Brazil🇧🇷.
 - 🔭  I'm currently studying towards AWS and Kubernetes certifications
 - 📫  How to reach me: email me on `me at thaissa dot me`
 - 😄  Pronouns: she/her
+- 🌎  I speak English, Spanish and Portuguese
 - ⚡   Fun fact: I have two cats 🐈‍⬛🐖 and love playing FH5 🏎💨
 
 ### 💻 Technologies
