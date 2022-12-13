@@ -1,12 +1,10 @@
 # 🙋🏻‍♀️ Hello!
 I'm Thaíssa, a Site Reliability Engineer from Brazil🇧🇷.
 
-- 🔭  I'm currently working at Tucows
-- 🌱  I'm currently learning French, Project Management and Kafka
-- 🙅🏻‍♀️  I'm not looking to make a job change at the moment
+- 🔭  I'm currently studying towards AWS and Kubernetes certifications
 - 📫  How to reach me: email me on `me at thaissa dot me`
 - 😄  Pronouns: she/her
-- ⚡   Fun fact: I have two cats 🐈‍⬛🐖 and love playing Animal Crossing🎮
+- ⚡   Fun fact: I have two cats 🐈‍⬛🐖 and love playing FH5 🏎💨
 
 ### 💻 Technologies
 
