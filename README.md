@@ -1,11 +1,6 @@
 # 🙋🏻‍♀️ Hello!
 My name is Thaíssa - it's pronounced ta-EE-sa. I'm a Software Engineer and I live in Brazil🇧🇷.
 
-- 🔭  I'm currently studying towards AWS and Kubernetes certifications
-- 📫  How to reach me: email me on `me at thaissa dot me`
-- 😄  Pronouns: she/her
-- 🌎  I speak English, Spanish and Portuguese
-
 ### 💻 Technologies
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
